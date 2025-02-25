@@ -8,16 +8,6 @@ This project implements the **ElGamal Digital Signature Scheme** using Python. I
 
 ---
 
-## 📝 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Algorithms Implemented](#algorithms-implemented)
-- [Example Output](#example-output)
-- [References](#references)
-
----
-
 ## 🚀 Features
 ✅ Generate large prime numbers using Miller-Rabin Primality Test (512-bit prime generation)  
 ✅ Compute GCD using Euclidean Algorithm (EA)  
